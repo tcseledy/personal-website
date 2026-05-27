@@ -48,7 +48,3 @@ This website serves as a professional portfolio to demonstrate technical project
 ## Author
 
 Theo Cseledy
-
-GitHub: https://github.com/tcseledy/personal-website
-
-GitLab: https://gitlab.com
