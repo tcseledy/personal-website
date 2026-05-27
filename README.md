@@ -2,7 +2,8 @@ Personal Website Portfolio
 
 A responsive personal portfolio website showcasing my background, technical skills, projects, and contact information. This website was designed and developed to highlight my experience in cybersecurity, software development, networking, and web technologies while providing a professional online presence.
 
-Features
+Features: 
+
 Responsive modern UI design
 About Me section
 Project showcase section
@@ -17,7 +18,9 @@ Password Storage Application
 Movie Database/Search Application
 AI Penetration Testing Tool
 Personal Portfolio Website
-Technologies Used
+
+Technologies Used:
+
 HTML5
 CSS3
 JavaScript
@@ -26,11 +29,13 @@ Git/GitHub
 GitLab
 APIs
 Responsive Web Design
-Purpose
+
+Purpose:
 
 This website serves as a professional portfolio to demonstrate technical projects, development experience, and cybersecurity interests. It was built to strengthen frontend development skills while creating a centralized location for projects, resume access, and professional networking.
 
-Future Improvements
+Future Improvements: 
+
 Backend integration
 Dynamic project loading
 Enhanced animations/UI effects
