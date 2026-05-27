@@ -1,0 +1,1 @@
+A responsive personal portfolio website showcasing my background, technical skills, projects, and contact information. This website was designed and developed to highlight my experience in cybersecurity, software development, networking, and web technologies while providing a professional online presence.
