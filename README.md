@@ -21,7 +21,7 @@ Personal Portfolio Website
 
 Technologies Used:
 
-HTML5
+Technologies that I used were as follows: HTML5
 CSS3
 JavaScript
 Bootstrap
