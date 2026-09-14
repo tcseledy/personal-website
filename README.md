@@ -20,6 +20,7 @@ A responsive personal portfolio website showcasing my background, technical skil
 - Movie Database/Search Application
 - AI Penetration Testing Tool
 - Personal Portfolio Website
+- Secure Checkout Web Application 
 
 ## Technologies Used
 
@@ -42,8 +43,12 @@ This website serves as a professional portfolio to demonstrate technical project
 - Dynamic project loading
 - Enhanced animations/UI effects
 - Blog or technical write-up section
-- Expanded project showcase
+- Individual project detail pages
 - Improved accessibility features
+
+Down below is the link to the site.
+
+https://tcseledy.github.io/personal-website/
 
 ## Author
 
